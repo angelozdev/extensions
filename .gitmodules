@@ -4222,6 +4222,10 @@
 	path = extensions/pace-pro-theme
 	url = https://github.com/VMachihin/pace-theme-pro.git
 
+[submodule "extensions/package-json-bundle-size-lsp"]
+	path = extensions/package-json-bundle-size-lsp
+	url = https://github.com/angelozdev/package-json-bundle-size.git
+
 [submodule "extensions/package-json-upgrade-lsp"]
 	path = extensions/package-json-upgrade-lsp
 	url = https://github.com/Arthurmtro/zed-package-json-upgrade.git

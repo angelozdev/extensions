@@ -4318,6 +4318,11 @@ version = "0.0.1"
 submodule = "extensions/pace-pro-theme"
 version = "0.1.0"
 
+[package-json-bundle-size-lsp]
+submodule = "extensions/package-json-bundle-size-lsp"
+path = "extension"
+version = "0.1.0"
+
 [package-json-upgrade-lsp]
 submodule = "extensions/package-json-upgrade-lsp"
 version = "0.1.7"
